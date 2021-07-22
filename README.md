@@ -4,7 +4,7 @@
 
 #### I am from Nigeria and currently looking for new remote opportunities.
 
-- 🔭 I’m currently working on React projects.
+- 🔭 I’m currently working on Rails projects.
 - 👯 I’m looking to collaborate on Rails and React projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ekunola-grace/) | [Twitter](@TemmarieW)
