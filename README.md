@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Rails and React projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ekunola-grace/) | [Twitter](@TemmarieW)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I have 2years of remote work experience with devs from all over the world.
 
 
